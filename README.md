@@ -1,1 +1,1 @@
-WCF-Test
+WCF Sample Project
